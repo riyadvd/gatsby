@@ -9,8 +9,8 @@ const Tracking = () => (
     <Layout>
         <Seo title="Home" />
 
-        <p>Welcome to your Tracking page.</p>
-        <p>Now go build something great.</p>
+        <p>Welcome to your Tracking page .</p>
+        <p>Now go build something great.cwecwc</p>
         <StaticImage
             src="../images/gatsby-astronaut.png"
             width={300}
